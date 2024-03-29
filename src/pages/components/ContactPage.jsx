@@ -5,9 +5,10 @@ function ContactPage() {
     <div className="flex flex-col items-center justify-center h-screen bg-gray-100">
       <h1 className="text-3xl font-bold mb-4">Contact Us</h1>
       <p className="text-lg mb-8">
-        We'd love to hear from you! Reach out to us using the contact
+        We would love to hear from you! Reach out to us using the contact
         information below:
       </p>
+
       <div className="max-w-md w-full bg-white p-8 rounded-lg shadow-md">
         <h2 className="text-xl font-semibold mb-4">Contact Information</h2>
         <ul>
