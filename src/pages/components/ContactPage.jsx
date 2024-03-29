@@ -2,7 +2,7 @@ import React from "react";
 
 function ContactPage() {
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-red-600">
+    <div className="flex flex-col items-center justify-center h-screen bg-blue-400">
       <h1 className="text-3xl font-bold mb-4">Contact Us</h1>
       <p className="text-lg mb-8">
         We would love to hear from you! Reach out to us using the contact
